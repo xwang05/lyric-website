@@ -1,0 +1,24 @@
+
+body{height: 90vh;
+width:90vw;
+background:url(https://66.media.tumblr.com/247604b77f5872949e1ff676f418768c/tumblr_pjukr5K6Vu1tojh0do1_500.gif)
+no-repeat center center fixed;
+ background-size: cover;
+display:flex;
+flex-direction: row;}
+p{top:-800px;
+  float:left;
+  color:#FF3232;
+  font-family:ZCOOL;
+  writing-mode: vertical-rl;
+text-orientation: mixed;
+overflow: visible;
+
+display:inline-block;
+white-space: nowrap;
+font-size:90px;
+margin：25px 15px 15px;
+@font-face{font-family:ZCOOL;
+src: url(https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou
+}
+ul{float:left;list-style-type:none;}
